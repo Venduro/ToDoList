@@ -1,6 +1,6 @@
 # ToDoList
 
-
+This To Do List was a Behavior Driven Development Challenge in Ruby.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 To Do List Challenge
